@@ -24,11 +24,11 @@ This script automates the installation of **Python 3.11.10** on a Windows system
 
 ## ⚠️ Notes
 - **Requires an active internet connection** to download Python
-- **Tested on Windows 10 & 11**
+- **Tested on Windows 11**
 - **No administrator privileges required**
 
 ## 📜 License
-This script is licensed under the **MIT License**.This script is provided **as-is** without warranty. Use at your own risk.
+This script is licensed under the **MIT License**.
 
 ---
 
